@@ -240,3 +240,5 @@ COMP9417 · 机器学习课程 group project。
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F6BF6,60:1E1B4B,100:0F0F23&height=120&section=footer" alt="footer" />
 
 </div>
+
+<!-- profile last indexed: 2026-05-10 -->
